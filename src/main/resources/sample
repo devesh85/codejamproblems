@@ -1,0 +1,68 @@
+time complexity T(n) =   K + a*n + b*n ^2 + c*n^3  + .... (Polynomial)
+space complexity S(n) =   K + a*n + b*n ^2 + c*n^3  + ....
+
+exponential
+T(n) = K + a^n
+
+T(n) = K + aLn(n)
+
+d d d d d d d d d d d d
+
+2*x^2 + 3*x + 4
+4*x^3 + 2*x^2 + 3*x + 4
+
+
+O(1)   T(n) = K
+O(1)   S(n) = K
+O(n)   T(n) =  K + a*n
+               1000 + 10 *n   =
+
+              N = 1, T(n) =  1010
+               1020
+              N = 2 , T(n) = 1020
+
+               N = 100000  , T(n) = 10001000
+               N = 200000  , T(n) = 20001000
+               N = 300000  , T(n) = 30001000
+
+               1000 + 1000000
+ x = y ^z
+
+
+ z = log x base y
+
+
+ 8 =  2 ^ 3
+
+ 3 = (log 8) base 2
+
+
+ 1000 = 10 ^ 3
+
+ 3 = (log 1000) base 10
+
+ 5.()    =  (log 897987) base 10
+                             Math.floor(Math.log(908098098)/Math.log(10)) + 1
+final int numDigits = (int) (Math.floor (Math.log10(x))) + 1;
+ e = 2.()
+ log[y] x
+ ln x
+
+  log[y] x   = ln x/ln y
+
+ln(x)  = x + x^2/!2 + x^3/!3 + ..........
+
+w l
+(x,y)         (x + w, y)
+#############
+#############
+#############
+#############
+#############  (x + w , y + l)
+(x, y + l)
+
+12344321
+1      1
+ 2    2
+
+      ln x - ln y  = ln(x/y)
